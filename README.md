@@ -8,3 +8,9 @@
 npm install
 export DEBUG=stratego:* & npm start
 ```
+
+## Tools
+
+```
+npm install -g express-generator
+```
